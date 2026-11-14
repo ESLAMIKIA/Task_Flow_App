@@ -1,3 +1,4 @@
+
 # ✨ TaskFlow
 
 <h3 align="center">Make Every Day Count 🚀</h3>
@@ -70,6 +71,13 @@ TaskFlow features a modern dark interface with:
 
 - ## 📸 Screenshots
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/faae6b69-ecc7-4af5-8aca-181008c064d7" width="30%" alt="TaskFlow Daily Tasks" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/702b98e2-556e-40bd-9bd1-4c244c519f5f" width="30%" alt="TaskFlow Calendar" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/81d05e13-f8b5-49c3-8303-1f4068b8d84f" width="30%" alt="TaskFlow Goals" />
+</p>
 
 
 
