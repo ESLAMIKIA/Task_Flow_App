@@ -110,6 +110,19 @@ git clone https://github.com/YOUR_USERNAME/TaskFlow.git
 
 4. Run the application on an Android device or emulator.
 
+
+## 📥 Download TaskFlow
+
+<p align="center">
+  <a href="app/TaskFlow.apk">
+    <img src="https://img.shields.io/badge/Download-TaskFlow%20APK-2EA44F?style=for-the-badge&logo=android&logoColor=white" alt="Download TaskFlow APK" />
+  </a>
+</p>
+
+<p align="center">
+  Download the latest APK and install TaskFlow on your Android device.
+</p>
+
 ## 👨‍💻 Developer
 
 <p align="center">
