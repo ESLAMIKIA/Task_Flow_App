@@ -8,12 +8,6 @@
   Track your daily habits, achieve long-term goals, and stay motivated every day.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" height="22" />
-</p>
-
 ---
 
 ## 📱 About TaskFlow
@@ -71,11 +65,13 @@ TaskFlow features a modern dark interface with:
 
 - ## 📸 Screenshots
 
+
 <p align="center">
-  - <img width="1080" height="2400" alt="Screenshot_20261114_141927" src="https://github.com/user-attachments/assets/496fa83a-627a-42bd-947a-4c2526228468" />
-<img width="1080" height="2400" alt="Screenshot_20261114_141934" src="https://github.com/user-attachments/assets/308afa59-516b-45c7-870d-554dd84748f3" />
-<img width="1080" height="2400" alt="Screenshot_20261114_141938" src="https://github.com/user-attachments/assets/2c0000f9-ea3b-43ca-ab12-0842a087da6b" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" height="22" />
 </p>
+
 
 ## 📂 Project Structure
 
