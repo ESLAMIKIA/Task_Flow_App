@@ -69,6 +69,15 @@ TaskFlow features a modern dark interface with:
 - Custom bottom navigation
 - Minimal and clean layouts
 
+
+- ## 📸 Screenshots
+
+<p align="center">
+  - <img width="1080" height="2400" alt="Screenshot_20261114_141927" src="https://github.com/user-attachments/assets/496fa83a-627a-42bd-947a-4c2526228468" />
+<img width="1080" height="2400" alt="Screenshot_20261114_141934" src="https://github.com/user-attachments/assets/308afa59-516b-45c7-870d-554dd84748f3" />
+<img width="1080" height="2400" alt="Screenshot_20261114_141938" src="https://github.com/user-attachments/assets/2c0000f9-ea3b-43ca-ab12-0842a087da6b" />
+</p>
+
 ## 📂 Project Structure
 
 ```text
