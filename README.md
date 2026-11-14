@@ -7,6 +7,11 @@
   <br/>
   Track your daily habits, achieve long-term goals, and stay motivated every day.
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="22" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" height="22" />
+</p>
 
 ---
 
@@ -66,11 +71,6 @@ TaskFlow features a modern dark interface with:
 - ## 📸 Screenshots
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" height="22" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" height="22" />
-</p>
 
 
 ## 📂 Project Structure
